@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:39:23.547Z",
+  "generated_at": "2026-11-22T20:13:20.324Z",
   "items": {
     "problem:7": {
       "kind": "problem",
@@ -185,6 +185,19 @@
       "path": "math/0034-least-squares-and-the-normal-equations",
       "first_solved_at": "2026-11-21T12:39:22.806Z",
       "last_pushed_at": "2026-11-21T12:39:22.806Z"
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-11-22T20:13:19.448Z",
+      "last_pushed_at": "2026-11-22T20:13:19.448Z",
+      "language": "python",
+      "lines": 4
     }
   }
 }
