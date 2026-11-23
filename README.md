@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 12 problems · 0 labs · 5 math
+**18** solved · 13 problems · 0 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-26 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-11-21 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-11-21 | [solution](problems/0029-random-shuffle-of-dataset) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-23 | [solution](problems/0017-k-means-clustering) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-02-03 | [solution](problems/0007-matrix-transformation) |
 
 ## Math
