@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:30:58.087Z",
+  "generated_at": "2026-11-23T21:33:44.384Z",
   "items": {
     "problem:7": {
       "kind": "problem",
@@ -300,6 +300,19 @@
       "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
       "first_solved_at": "2026-11-23T21:30:03.868Z",
       "last_pushed_at": "2026-11-23T21:30:57.335Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-11-23T21:33:43.550Z",
+      "last_pushed_at": "2026-11-23T21:33:43.550Z",
       "language": "python",
       "lines": 11
     }
